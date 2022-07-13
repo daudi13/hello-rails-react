@@ -5,6 +5,10 @@ ruby '3.0.2'
 
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Webpacker and React
+gem 'react-rails', '~> 2.6'
+gem 'webpacker'
+
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.3'
 
