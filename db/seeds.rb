@@ -9,18 +9,23 @@
 
 Greeting.create!([
   {
-    message: "Hello, world!"
+    message: "Hello, world!",
+    language: "en"
   },
   {
-    message: "Hola, mundo!"
+    message: "Hola, mundo!",
+    language: "es"
   },
   {
-    message: "Bonjour, le monde!"
+    message: "Bonjour, le monde!",
+    language: "fr"
   },
   {
-    message: "Hallo, Welt!"
+    message: "Hallo, Welt!",
+    language: "de"
   },
   {
     message: "Ciao, mondo!"
+    language: "it"
   },
 ])
