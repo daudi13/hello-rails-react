@@ -25,7 +25,7 @@ Greeting.create!([
     language: "de"
   },
   {
-    message: "Ciao, mondo!"
+    message: "Ciao, mondo!",
     language: "it"
   },
 ])
